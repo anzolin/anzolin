@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Anzolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-anzolin/)](https://www.linkedin.com/in/diego-anzolin/)
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anzolin&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anzolin)
 
