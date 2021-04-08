@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working at [Accenture](https://www.accenture.com/) as Developer and Tech Lead
+- 🔭 I’m currently working at [Accenture](https://www.accenture.com/) as Tech Lead and Developer.
 - 💬 Ask me about: Development :)
 
 #### Follow me on my social networks:
@@ -11,9 +11,6 @@ Here something about me:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/anzolin/)](https://www.instagram.com/anzolin/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/anzolin)](https://twitter.com/anzolin)
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anzolin&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anzolin)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anzolin&langs_count=10&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anzolin&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anzolin)
