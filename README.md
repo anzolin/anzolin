@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working at [Accenture](https://www.accenture.com/) as Tech Lead and Developer.
+<!-- - 🔭 I’m currently working at [Accenture](https://www.accenture.com/) as Tech Lead and Developer. -->
 - 💬 Ask me about: Development :)
 
 #### Follow me on my social networks:
