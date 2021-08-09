@@ -9,10 +9,19 @@ Here something about me:
 
 #### Some interesting open source projects from my GitHub:
 
+
+| Project                                                                                           | Description                                                                                                             |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| [Anzolin.Net.NuGet](https://github.com/anzolin/Anzolin.Net.NuGet)                                 | _A smart set of common classes and implementations to improve your development productivity bundled in NuGet Packages._ |
+| [NetCorexUnitRockPaperScissorsGame](https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame) | _A simple example test project (net standard/core) using xUnit for RockPaperScissors Game._                             |
+| [AspNetCoreDapperMySql](https://github.com/anzolin/AspNetCoreDapperMySql)                         | _A simple example project using ASP.NET Core, Dapper ORM and MySQL._                                                    |
+| [NetCoreSeleniumWebCrawler](https://github.com/anzolin/NetCoreSeleniumWebCrawler)                 | _A simple example project of Web Crawler using .NET Core and Selenium._                                                 |
+<!--
 - [Anzolin.Net.NuGet](https://github.com/anzolin/Anzolin.Net.NuGet) - _A smart set of common classes and implementations to improve your development productivity bundled in NuGet Packages._
 - [NetCorexUnitRockPaperScissorsGame](https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame) - _A simple example test project (net standard/core) using xUnit for RockPaperScissors Game._
 - [AspNetCoreDapperMySql](https://github.com/anzolin/AspNetCoreDapperMySql) - _A simple example project using ASP.NET Core, Dapper ORM and MySQL._
 - [NetCoreSeleniumWebCrawler](https://github.com/anzolin/NetCoreSeleniumWebCrawler) - _A simple example project of Web Crawler using .NET Core and Selenium._
+-->
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anzolin)](https://github.com/anzolin)
