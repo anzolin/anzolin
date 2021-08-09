@@ -3,14 +3,16 @@
 Here something about me:
 
 <!-- - 🔭 I’m currently working at [Accenture](https://www.accenture.com/) as Tech Lead and Developer. -->
+- 🔭 Development Specialist.
+- 👯 Always interested in understanding how stuff works and learning new technologies.
 - 💬 Ask me about: Development :)
 
 #### Some interesting open source projects from my GitHub:
 
-- [Anzolin.Net.NuGet](https://github.com/anzolin/Anzolin.Net.NuGet) - A smart set of common classes and implementations to improve your development productivity bundled in NuGet Packages.
-- [NetCorexUnitRockPaperScissorsGame](https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame) - A simple example test project (net standard/core) using xUnit for RockPaperScissors Game.
-- [AspNetCoreDapperMySql](https://github.com/anzolin/AspNetCoreDapperMySql) - A simple example project using ASP.NET Core, Dapper ORM and MySQL.
-- [NetCoreSeleniumWebCrawler](https://github.com/anzolin/NetCoreSeleniumWebCrawler) - A simple example project of Web Crawler using .NET Core and Selenium.
+- [Anzolin.Net.NuGet](https://github.com/anzolin/Anzolin.Net.NuGet) - _A smart set of common classes and implementations to improve your development productivity bundled in NuGet Packages._
+- [NetCorexUnitRockPaperScissorsGame](https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame) - _A simple example test project (net standard/core) using xUnit for RockPaperScissors Game._
+- [AspNetCoreDapperMySql](https://github.com/anzolin/AspNetCoreDapperMySql) - _A simple example project using ASP.NET Core, Dapper ORM and MySQL._
+- [NetCoreSeleniumWebCrawler](https://github.com/anzolin/NetCoreSeleniumWebCrawler) - _A simple example project of Web Crawler using .NET Core and Selenium._
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anzolin)](https://github.com/anzolin)
