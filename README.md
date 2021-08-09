@@ -5,7 +5,7 @@ Here something about me:
 <!-- - 🔭 I’m currently working at [Accenture](https://www.accenture.com/) as Tech Lead and Developer. -->
 - 💬 Ask me about: Development :)
 
-Some interesting open source projects from my GitHub:
+#### Some interesting open source projects from my GitHub:
 
 - [Anzolin.Net.NuGet](https://github.com/anzolin/Anzolin.Net.NuGet) - A smart set of common classes and implementations to improve your development productivity bundled in NuGet Packages.
 - [NetCorexUnitRockPaperScissorsGame](https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame) - A simple example test project (net standard/core) using xUnit for RockPaperScissors Game.
