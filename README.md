@@ -1,7 +1,5 @@
 [![](https://vistr.dev/badge?repo=anzolin.anzolin)](https://github.com/anzolin/anzolin)
 
----
-
 ### Hey 👋, I'm Diego Anzolin
 
 Here something about me:
