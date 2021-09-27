@@ -6,7 +6,7 @@ Here something about me:
 
 <!-- - 🔭 I’m currently working at [Accenture](https://www.accenture.com/) as Tech Lead and Developer. -->
 - 🔭 Development Specialist.
-- [My LinkedIn profile](https://www.linkedin.com/in/diego-anzolin/)
+- 📫 [My LinkedIn profile](https://www.linkedin.com/in/diego-anzolin/)
 - 👯 Always interested in understanding how stuff works and learning new technologies.
 - 💬 Ask me about: Development :)
 
