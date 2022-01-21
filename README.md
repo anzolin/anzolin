@@ -16,6 +16,7 @@ Here something about me:
 | Project                                                                                           | Description                                                                                                             |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | [AnzolinNetDevPack](https://github.com/anzolin/AnzolinNetDevPack)                                 | _A smart set of common classes and implementations to improve your development productivity bundled in NuGet Packages._ |
+| [RabbitMQNetCore](https://github.com/anzolin/RabbitMQNetCore) | _A simple example project using RabbitMQ and .Net Core 6 (console)._                             |
 | [NetCorexUnitRockPaperScissorsGame](https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame) | _A simple example test project (net standard/core) using xUnit for RockPaperScissors Game._                             |
 | [AspNetCoreDapperMySql](https://github.com/anzolin/AspNetCoreDapperMySql)                         | _A simple example project using ASP.NET Core, Dapper ORM and MySQL._                                                    |
 | [NetCoreSeleniumWebCrawler](https://github.com/anzolin/NetCoreSeleniumWebCrawler)                 | _A simple example project of Web Crawler using .NET Core and Selenium._                                                 |
