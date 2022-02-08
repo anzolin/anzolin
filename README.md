@@ -1,6 +1,6 @@
 ![](https://vistr.dev/badge?repo=anzolin.anzolin)
 
-### Hey 👋, I'm Diego Anzolin
+<h1 align="center">Hey 👋, I'm Diego Anzolin</h1>
 
 Here something about me:
 
