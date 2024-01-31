@@ -16,16 +16,10 @@ Here something about me:
 | Project                                                                                           | Description                                                                                                             |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | [AnzolinNetDevPack](https://github.com/anzolin/AnzolinNetDevPack)                                 | _A smart set of common classes and implementations to improve your development productivity bundled in NuGet Packages._ |
-| [RabbitMQNetCore](https://github.com/anzolin/RabbitMQNetCore) | _A simple example project using RabbitMQ and .Net Core 6 (console)._                             |
-| [NetCorexUnitRockPaperScissorsGame](https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame) | _A simple example test project (net standard/core) using xUnit for RockPaperScissors Game._                             |
-| [AspNetCoreDapperMySql](https://github.com/anzolin/AspNetCoreDapperMySql)                         | _A simple example project using ASP.NET Core, Dapper ORM and MySQL._                                                    |
-| [NetCoreSeleniumWebCrawler](https://github.com/anzolin/NetCoreSeleniumWebCrawler)                 | _A simple example project of Web Crawler using .NET Core and Selenium._                                                 |
-<!--
-- [Anzolin.Net.NuGet](https://github.com/anzolin/Anzolin.Net.NuGet) - _A smart set of common classes and implementations to improve your development productivity bundled in NuGet Packages._
-- [NetCorexUnitRockPaperScissorsGame](https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame) - _A simple example test project (net standard/core) using xUnit for RockPaperScissors Game._
-- [AspNetCoreDapperMySql](https://github.com/anzolin/AspNetCoreDapperMySql) - _A simple example project using ASP.NET Core, Dapper ORM and MySQL._
-- [NetCoreSeleniumWebCrawler](https://github.com/anzolin/NetCoreSeleniumWebCrawler) - _A simple example project of Web Crawler using .NET Core and Selenium._
--->
+| [RabbitMQNetCore](https://github.com/anzolin/RabbitMQNetCore) | _A project example using RabbitMQ and .Net Core 6 (console)._                             |
+| [NetCorexUnitRockPaperScissorsGame](https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame) | _A test project example (net standard/core) using xUnit for RockPaperScissors Game._                             |
+| [AspNetCoreDapperMySql](https://github.com/anzolin/AspNetCoreDapperMySql)                         | _A project example using ASP.NET Core, Dapper ORM and MySQL._                                                    |
+| [NetCoreSeleniumWebCrawler](https://github.com/anzolin/NetCoreSeleniumWebCrawler)                 | _A project example of Web Crawler using .NET Core and Selenium._                                                 |
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anzolin)](https://github.com/anzolin)
