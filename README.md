@@ -15,7 +15,7 @@ Here something about me:
 
 | Project                                                                                           | Description                                                                                                             |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| [M5Stack StickC Plus2 with Unit Sensor Env III](https://github.com/anzolin/M5StickCPlus2SensorEnvIII)                                 | _Example of an IoT project of how you can extract temperature, humidity and pressure data from the Unit ENV III sensor paired with the M5StickCPlus2._ |
+| [M5Stack StickC Plus2 with Sensor Env III](https://github.com/anzolin/M5StickCPlus2SensorEnvIII)                                 | _Example of an IoT project of how you can extract temperature, humidity, pressure and altitude data from the ENV III sensor paired with the M5StickCPlus2._ |
 | [AnzolinNetDevPack](https://github.com/anzolin/AnzolinNetDevPack)                                 | _A smart set of common classes and implementations to improve your development productivity bundled in NuGet Packages._ |
 | [RabbitMQNetCore](https://github.com/anzolin/RabbitMQNetCore) | _A project example using RabbitMQ and .Net Core 6 (console)._                             |
 | [NetCorexUnitRockPaperScissorsGame](https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame) | _A test project example (net standard/core) using xUnit for RockPaperScissors Game._                             |
